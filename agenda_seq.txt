@@ -1,0 +1,2 @@
+Maria#Pérez#García#CarrerA123#Barcelona#123456789$Jordi#López#Martínez#CarrerB456#Madrid#987654321$Laura#García#Sánchez#CarrerC789#Valencia#456123789$Anna#Martínez#Torres#CarrerD321#Barcelona#321654987$Carles#Ruiz#Fernández#CarrerE654#Madrid#654321987$Sonia#Hernández#Jiménez#CarrerF987#Valencia#789123456$Marc#Sánchez#Navarro#CarrerG147#Sevilla#147258369$Alba#Jiménez#Muñoz#CarrerH258#Sevilla#258369147$David#Torres#Gómez#CarrerI369#Zaragoza#369147258$Marta#Navarro#Ramos#CarrerJ,159#Zaragoza#159753486$
+
